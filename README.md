@@ -262,11 +262,9 @@ AutoGluon is AWS's state-of-the-art AutoML framework, trusted by industry leader
 
 ## 📫 Connect With Me
 
-**[Your Name]**  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
+**Khadija Faisal**  
+📧 Email: khadijafaysal444@gmail.com   
+🐙 GitHub: [@khadijja1](https://github.com/khadijja1)
 
 ---
 
