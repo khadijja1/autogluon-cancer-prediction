@@ -87,7 +87,7 @@ autogluon-cancer-prediction/
 
 ### **Option 1: Run in Google Colab (Recommended - No Installation)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/autogluon-cancer-prediction/blob/main/AutoML_with_AWS_AutoGluon.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khadijja1/autogluon-cancer-prediction/blob/main/AutoML_with_AWS_AutoGluon.ipynb)
 
 1. Click the "Open in Colab" badge above
 2. Upload `cancer.csv` when prompted (or adjust file path)
